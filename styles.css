@@ -1,6 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
+    text-align: center;
+    background-color:rgba(255, 255, 224, 0.2);
+    margin: 0;
+    padding: 20px;
   }
   
   h1 {
@@ -43,3 +46,15 @@ body {
     text-align: center;
     margin-bottom: 5px;
   }
+
+  .button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #808080;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
