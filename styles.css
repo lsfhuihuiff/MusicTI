@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .audio-group {
+    margin-bottom: 10px;
+  }
+  
+  .audio-row {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .group-number {
+    font-weight: bold;
+    width: 100px;
+    margin-right: 10px;
+  }
+
+  .group-number1 {
+    font-weight: bold;
+    width: 100px;
+    margin-right: 10px;
+    margin-top: 50px;
+  }
+  
+  .audio-column {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  audio {
+    width: 100%;
+  }
+  
+  h3 {
+    text-align: center;
+    margin-bottom: 5px;
+  }
